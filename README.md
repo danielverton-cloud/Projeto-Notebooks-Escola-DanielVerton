@@ -1,7 +1,7 @@
-# Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola Exemplar
+# Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola EEEP Edson Queiroz
 
 ## 1. Resumo Executivo
-Atualmente, os laboratórios de informática da Escola Exemplar utilizam computadores antigos, de baixo desempenho e limitados ao uso em ambientes fixos. Para modernizar a infraestrutura, propõe-se a aquisição de **30 notebooks**, garantindo mobilidade, flexibilidade e maior aproveitamento dos recursos tecnológicos. A iniciativa trará benefícios diretos ao processo de ensino-aprendizagem, além de reduzir custos a longo prazo com manutenção e consumo de energia.
+Atualmente, os laboratórios de informática da Escola EEEP Edson Queiroz utilizam computadores antigos, de baixo desempenho e limitados ao uso em ambientes fixos. Para modernizar a infraestrutura, propõe-se a aquisição de **30 notebooks**, garantindo mobilidade, flexibilidade e maior aproveitamento dos recursos tecnológicos. A iniciativa trará benefícios diretos ao processo de ensino-aprendizagem, além de reduzir custos a longo prazo com manutenção e consumo de energia.
 
 ## 2. Introdução e Justificativa
 Os computadores atualmente disponíveis na escola apresentam lentidão, obsolescência de hardware e alto consumo de energia elétrica, dificultando o uso eficiente em atividades pedagógicas.  
@@ -74,4 +74,4 @@ Assim, a modernização tecnológica é essencial para acompanhar as demandas do
 Duração total: **5 semanas**
 
 ## 8. Considerações Finais
-O presente projeto demonstra a importância de modernizar o parque tecnológico da Escola Exemplar, substituindo computadores obsoletos por notebooks modernos. A aquisição trará benefícios pedagógicos, logísticos e financeiros, reforçando a necessidade de investimento imediato nessa solução como forma de preparar alunos e professores para os desafios da era digital.
+O presente projeto demonstra a importância de modernizar o parque tecnológico da Escola EEEP Edson Queiroz, substituindo computadores obsoletos por notebooks modernos. A aquisição trará benefícios pedagógicos, logísticos e financeiros, reforçando a necessidade de investimento imediato nessa solução como forma de preparar alunos e professores para os desafios da era digital.
